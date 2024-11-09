@@ -14,6 +14,10 @@ This is a product management system developed in Python using the [Flet](https:/
 - **Flet**: A framework that simplifies web application development in Python without requiring deep knowledge of HTML/CSS/JavaScript.
 - **Python**: Main language for building the application’s logic and features.
 
+## Requirements
+
+- **Python:** Ensure Python is installed on your machine. The system was developed using Python 3.x.
+  
 ## How to Run the Project
 
 1. Install Flet (if not already installed):
